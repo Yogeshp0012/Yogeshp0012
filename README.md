@@ -47,12 +47,10 @@
 <img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/laravel.png" alt="Laravel" width="100" height="35">
 <img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/react.png" alt="React" width="100" height="35">
 </br>
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/angular.png" alt="google_cloud_platform" width="120" height="35">
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="100" height="35">
-</br>
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/php.png" alt="pc" width="100" height="35">
-
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/jetbrains_intellij.png" alt="playstation" width="100" height="35">
+<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/angular.png" alt="Anguler" width="120" height="35">
+<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="150" height="35">
+<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/php.png" alt="php" width="100" height="35">
+<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/jetbrains_intellij.png" alt="intellij" width="150" height="35">
 </p>
 </br>
 </br>
