@@ -43,14 +43,15 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/python.png" alt="python" width="120" height="35">
 <img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/java.png" alt="java"  width="100" height="35">
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/flutter.png" alt="AI" width="100" height="35">
+<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/flutter.png" alt="Flutter" width="100" height="35">
+<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/laravel.png" alt="Laravel" width="100" height="35">
+<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/react.png" alt="React" width="100" height="35">
 </br>
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/react.png" alt="google_cloud_platform" width="100" height="35">
 <img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/angular.png" alt="google_cloud_platform" width="100" height="35">
 <img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="100" height="35">
 </br>
 <img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/php.png" alt="pc" width="100" height="35">
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/laravel.png" alt="edge" width="100" height="35">
+
 <img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/jetbrains_intellij.png" alt="playstation" width="100" height="35">
 </p>
 </br>
