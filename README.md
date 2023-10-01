@@ -93,13 +93,6 @@ So, grab your coding katana, and let's create some software magic together! 💻
 
 ###
 
-<div align="left">
- <img src="https://raw.githubusercontent.com/Yogeshp0012/Yogeshp0012/output/snake.svg" alt="Snake animation" />
-</div>
-
-
-###
-
 ## My Recent Spotify Tracks 🎧
 
 
