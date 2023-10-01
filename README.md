@@ -33,29 +33,15 @@
 </br>
 </br>
 
-# Languages & Tools 👨‍💻 🛠:
+<h2 align="left">🛠️ Languages & Tools I Speak in Gibberish (and English) 🤪</h2>
 
-</br>
+###
 
-<p align="center">
+<p align="left">🅰️ Angular - Building dynamic web apps with the power of superheroes! 🦸‍♂️<br>🚀 Spring Boot - My go-to for creating lightning-fast, Java-powered applications ⚡<br>☕ Java - My coding fuel; 😴<br>🍃 MongoDB - Where I store my data, and it feels like home 🏡<br>🐳 Docker - Wrapping my apps like a burrito 🌯<br>🌐 AWS - In the cloud, I feel right at home ☁️<br>🎨 CSS - Adding colors and styles that even Picasso would envy 🎨<br>🍀 Javascript - Making the web come alive, one line at a time; I can write Javascript in my sleep! 💫<br>🐍 Python - My trusty sidekick for all things scripting and data 🐍<br>🐘 Apache Kafka - For those moments when you need to stream data like a pro 🌊<br>🧙 Git & GitHub - Where I perform my best magic tricks, like making code disappear and reappear! 🪄<br>🔨 VS Code - My coding dojo; where I wield my text editor like a katana! 🥋<br>🚀 IntelliJ IDEA - My co-pilot in the world of Java development ✈️<br>🖥️ Linux - Because who needs Windows when you have penguins? 🐧</p>
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/python.png" alt="python" width="120" height="35">
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/java.png" alt="java"  width="100" height="35">
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/flutter.png" alt="Flutter" width="100" height="35">
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/laravel.png" alt="Laravel" width="100" height="35">
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/react.png" alt="React" width="100" height="35">
-</br>
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/angular.png" alt="Anguler" width="120" height="35">
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="150" height="35">
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/php.png" alt="php" width="100" height="35">
-<img src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/jetbrains_intellij.png" alt="intellij" width="150" height="35">
-</p>
-</br>
-</br>
-</br>
+###
 
-<h3 align="left">📬 Let's Talk Code and Cats! 😺</h3>
+<h2 align="left">📬 Let's Talk Code and Cats! 😺</h2>
 
 ###
 
@@ -73,7 +59,7 @@
 
 ###
 
-### My Recent Spotify Tracks 🎧
+## My Recent Spotify Tracks 🎧
 
 
 <div align="center">
