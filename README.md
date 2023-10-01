@@ -8,30 +8,13 @@
 </br>
 </br>
 
-# About ME 💬 :
+<h2 align="left">🤖 About Me: The Code-Hungry Humanoid 🍔</h2>
 
-### - I'm 24 years old Full Stack Developer from Bangalore, India.
+###
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/1936.gif">
+<p align="left">👋 Hey there, fellow code voyagers! I'm just your average human disguised as a code-loving robot. My mission? To turn coffee into code and bugs into features with a dash of humor. 🤖<br><br>🚀 By day, I'm a code-slinger, debugging magician, and caffeine connoisseur. By night, I'm a Netflix enthusiast, aspiring chef (at least in my head), and a collector of funny programming memes. 🍿<br><br>🔥 My coding journey is like a rollercoaster—full of loops, unexpected errors, and the occasional victory dance when my code finally works. 💃<br><br>🌌 Exploring the vast galaxies of open source, I've encountered aliens (bugs), befriended Jedi (mentors), and slayed dragons (legacy code). 🐉<br><br>🎮 When I'm not wrangling code, you can find me battling virtual dragons or racing in Mario Kart. Life's too short for boring code and dull adventures! 🎯<br><br>Remember, in the world of code, laughter is the best debugger. So, let's embrace the bugs and write some epic code together! 🚀🌟</p>
 
-### - Skills :
-
-- ✨ Front End Frameworks ( Angular, React, Flutter )
-- ✨ Back End Frameworks ( Spring Boot, Laravel )
-- ✨ Python
-- ✨ Java
-- ✨ PHP
-
-### - Hobbies :
-
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Producing Music
-- ✨ Cricket
-
-</br>
-</br>
-</br>
+###
 
 <h2 align="left">🛠️ Languages & Tools I Speak in Gibberish (and English) 🤪</h2>
 
