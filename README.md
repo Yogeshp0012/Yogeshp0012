@@ -90,3 +90,12 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   </p>
 
 ---
+
+### My Recent Spotify Tracks 🎧
+
+
+<div align="center">
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nifgeiq7fvmsr4rmsy77xcqhje&unique={true|1|on|yes})
+
+</div>
