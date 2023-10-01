@@ -55,41 +55,23 @@
 </br>
 </br>
 
-# Contact Me :
+<h3 align="left">📬 Let's Talk Code and Cats! 😺</h3>
 
-<p>
- </br>
+###
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/93195.gif">
+<div align="center">
+  <img height="200" src="https://media.tenor.com/x4-Ccy77vWcAAAAC/tom-and-jerry-tom.gif"  />
+</div>
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+###
 
-<a href="mailto:yogeshp0012@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/p-yogesh-bb71a4196/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Yogeshp0012/Yogeshp0012/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
- </p>
+<p align="left">👋 Hey there! I'm as responsive as a cat chasing a laser pointer (well, almost). Got questions, ideas, or just want to chat about code, tech, or anything nerdy? Don't hesitate to reach out! I promise I won't take as many catnaps as my feline friends. 😉<br><br>📧 Drop me an email at [your@email.com](mailto:your@email.com)  <br>💬 Or slide into my DMs on [Twitter](https://twitter.com/yourtwitterhandle)<br><br>P.S. If you bring up cat memes or anime, our conversation will be twice as fast!</p>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+###
 
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-<img  src="https://github-readme-stats.vercel.app/api?username=Yogeshp0012&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
+<p align="left"></p>
 
----
+###
 
 ### My Recent Spotify Tracks 🎧
 
