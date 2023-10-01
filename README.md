@@ -5,6 +5,17 @@
 </div>
 
 ###
+---
+
+<h2 align="left">🤖 About Me: The Code-Hungry Humanoid 🍔</h2>
+
+###
+
+<div align="center">
+  <img height="300" src="https://media.tenor.com/KPbygu6vdiEAAAAC/one-piece-alabasta.gif"  />
+</div>
+
+###
 
 🍣 Welcome to my code dojo, where bugs are the ninjas I battle daily! 💥
 
@@ -16,12 +27,7 @@
 
 So, grab your coding katana, and let's create some software magic together! 💻🔮
 
-
-<h2 align="left">🤖 About Me: The Code-Hungry Humanoid 🍔</h2>
-
-###
-
-<p align="left">👋 Hey there, fellow code voyagers! I'm just your average human disguised as a code-loving robot. My mission? To turn coffee into code and bugs into features with a dash of humor. 🤖<br><br>🚀 By day, I'm a code-slinger, debugging magician, and caffeine connoisseur. By night, I'm a Netflix enthusiast, aspiring chef (at least in my head), and a collector of funny programming memes. 🍿<br><br>🔥 My coding journey is like a rollercoaster—full of loops, unexpected errors, and the occasional victory dance when my code finally works. 💃<br><br>🌌 Exploring the vast galaxies of open source, I've encountered aliens (bugs), befriended Jedi (mentors), and slayed dragons (legacy code). 🐉<br><br>🎮 When I'm not wrangling code, you can find me battling virtual dragons or racing in Mario Kart. Life's too short for boring code and dull adventures! 🎯<br><br>Remember, in the world of code, laughter is the best debugger. So, let's embrace the bugs and write some epic code together! 🚀🌟</p>
+---
 
 ###
 
@@ -29,8 +35,43 @@ So, grab your coding katana, and let's create some software magic together! 💻
 
 ###
 
-<p align="left">🅰️ Angular - Building dynamic web apps with the power of superheroes! 🦸‍♂️<br>🚀 Spring Boot - My go-to for creating lightning-fast, Java-powered applications ⚡<br>☕ Java - My coding fuel; 😴<br>🍃 MongoDB - Where I store my data, and it feels like home 🏡<br>📊 SQL - Making databases dance to my queries 💃🐳 Docker - Wrapping my apps like a burrito 🌯<br>🌐 AWS - In the cloud, I feel right at home ☁️<br>🎨 CSS - Adding colors and styles that even Picasso would envy 🎨<br>🍀 Javascript - Making the web come alive, one line at a time; I can write Javascript in my sleep! 💫<br>🐍 Python - My trusty sidekick for all things scripting and data 🐍<br>🐘 Apache Kafka - For those moments when you need to stream data like a pro 🌊<br>🧙 Git & GitHub - Where I perform my best magic tricks, like making code disappear and reappear! 🪄<br>🔨 VS Code - My coding dojo; where I wield my text editor like a katana! 🥋<br>🚀 IntelliJ IDEA - My co-pilot in the world of Java development ✈️<br>🖥️ Linux - Because who needs Windows when you have penguins? 🐧</p>
+<div align="center">
+  <img height="300" src="https://37.media.tumblr.com/tumblr_m56kd7Zdhg1rqfhi2o1_500.gif"  />
+</div>
 
+###
+
+🅰️ <b>Angular</b> - Building dynamic web apps with the power of superheroes! 🦸‍♂️
+
+🚀 <b>Spring Boot</b> - My go-to for creating lightning-fast, Java-powered applications ⚡
+
+☕ <b>Java</b> - My coding fuel; 😴
+
+🍃 <b>MongoDB</b> - Where I store my data, and it feels like home 🏡
+
+📊 <b>SQL</b> - Making databases dance to my queries
+
+🐳 <b>Docker</b> - Wrapping my apps like a burrito 🌯
+
+🌐 <b>AWS</b> - In the cloud, I feel right at home ☁️
+
+🎨 <b>TailwindCSS</b> - Adding colors and styles that even Picasso would envy 🎨
+
+🍀 <b>Javascript</b> - Making the web come alive, one line at a time; I can write Javascript in my sleep! 💫
+
+🐍 <b>Python</b> - My trusty sidekick for all things scripting and data 🐍
+
+🐘 <b>Apache Kafka</b> - For those moments when you need to stream data like a pro 🌊
+
+🧙 <b>Git & GitHub</b> - Where I perform my best magic tricks, like making code disappear and reappear! 🪄
+
+🔨 <b>VS Code</b> - My coding dojo; where I wield my text editor like a katana! 🥋
+
+🚀 <b>IntelliJ IDEA</b> - My co-pilot in the world of Java development ✈️
+
+🖥️ <b>Linux</b> - Because who needs Windows when you have penguins? 🐧
+
+---
 ###
 
 <h2 align="left">📬 Let's Talk Code and Cats! 😺</h2>
@@ -48,6 +89,14 @@ So, grab your coding katana, and let's create some software magic together! 💻
 ###
 
 <p align="left"></p>
+---
+
+###
+
+<div align="left">
+ <img src="https://raw.githubusercontent.com/Yogeshp0012/Yogeshp0012/output/snake.svg" alt="Snake animation" />
+</div>
+
 
 ###
 
