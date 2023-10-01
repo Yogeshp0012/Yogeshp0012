@@ -1,8 +1,14 @@
 ## 👋 Konichiwa, fellow code samurai! 
 
+<div align="center">
+  <img height="300" src="https://media.tenor.com/w1X8EWtlYnMAAAAC/gojo-satoru-jujutsu-kaisen.gif"  />
+</div>
+
+###
+
 🍣 Welcome to my code dojo, where bugs are the ninjas I battle daily! 💥
 
-🖥️ By day, I'm a code warrior, crafting digital masterpieces. By night, I'm an anime enthusiast, ramen aficionado, and a cat's loyal servant. 🐱🍜
+🖥️ By day, I'm a code warrior, crafting digital masterpieces. By night, I'm an anime enthusiast, and ramen aficionado 🍜.
 
 🚀 My coding journey is like a thrilling manga series—full of twists, turns, and the occasional epic showdown with the compiler demons. ⚔️
 
