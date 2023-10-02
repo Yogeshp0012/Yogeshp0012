@@ -93,7 +93,7 @@ So, grab your coding katana, and let's create some software magic together! 💻
 
 ###
 
-<img src="https://raw.githubusercontent.com/Yogeshp0012/Yogeshp0012/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Yogeshp0012/Yogeshp0012/blob/output/github-contribution-grid-snake.gif)
 
 ---
 ###
