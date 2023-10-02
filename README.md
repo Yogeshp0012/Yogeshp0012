@@ -144,7 +144,7 @@ So, grab your coding katana, and let's create some software magic together! 💻
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Yogeshp0012/Yogeshp0012/output/github-contribution-grid-snake-dark.svg)
 
 ---
 ###
