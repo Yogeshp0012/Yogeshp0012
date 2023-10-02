@@ -125,7 +125,27 @@ So, grab your coding katana, and let's create some software magic together! 💻
 
 ###
 
-<p align="left">👋 Hey there! I'm as responsive as a cat chasing a laser pointer (well, almost). Got questions, ideas, or just want to chat about code, tech, or anything nerdy? Don't hesitate to reach out! I promise I won't take as many catnaps as my feline friends. 😉<br><br>📧 Drop me an email at [your@email.com](mailto:your@email.com)  <br>💬 Or slide into my DMs on [Twitter](https://twitter.com/yourtwitterhandle)<br><br>P.S. If you bring up cat memes or anime, our conversation will be twice as fast!</p>
+<p align="left">👋 Hey there! I'm as responsive as a cat chasing a laser pointer (well, almost). Got questions, ideas, or just want to chat about code, tech, or anything nerdy? Don't hesitate to reach out! I promise I won't take as many catnaps as my feline friends. 😉<br><br>
+
+###
+
+<div align="center">
+  <a href="https://www.youtube.com/@ydmhouse9144" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="mailto:yogeshp0012@email.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/geraffe.d.luffy/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="www.linkedin.com/in/pyogesh1102" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@yogeshp0012" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+</div>
 
 ###
 
