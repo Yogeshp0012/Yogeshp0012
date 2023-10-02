@@ -1,4 +1,4 @@
-## 👋 Konichiwa, fellow code samurai! 
+## 👋 Konichiwa, fellow code samurai!
 
 <div align="center">
   <img height="300" src="https://media.tenor.com/w1X8EWtlYnMAAAAC/gojo-satoru-jujutsu-kaisen.gif"  />
@@ -91,6 +91,11 @@ So, grab your coding katana, and let's create some software magic together! 💻
 <p align="left"></p>
 ---
 
+###
+
+<img src="https://raw.githubusercontent.com/Yogeshp0012/Yogeshp0012/output/snake.svg" alt="Snake animation" />
+
+---
 ###
 
 ## My Recent Spotify Tracks 🎧
